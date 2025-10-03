@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Alejandro\\Desktop\\aa\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\Luis Alejandro\\Desktop\\aa\\MediaAritmetica-DesviacionEstandar\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Alejandro\\Desktop\\aa\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\Luis Alejandro\\Desktop\\aa\\MediaAritmetica-DesviacionEstandar\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\MediaAritmetica-DesviacionEstandar\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\MediaAritmetica-DesviacionEstandar\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Luis Alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Luis Alejandro\\Desktop\\aa\\MediaAritmetica-DesviacionEstandar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
